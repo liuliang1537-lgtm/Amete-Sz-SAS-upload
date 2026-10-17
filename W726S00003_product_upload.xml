@@ -2,7 +2,7 @@
 <products>
   <product>
     <category-id>469</category-id>
-    <category-name><![CDATA[Sports, Leisure & Tourism / Fitness / Treadmills]]></category-name>
+    <category-name><![CDATA[Treadmills]]></category-name>
 
     <title><![CDATA[Sulankstomas bėgimo takelis vaikščiojimui ir bėgimui namuose su treniruočių programėle ir telefono laikikliu]]></title>
     <title-ru><![CDATA[Складная беговая дорожка для ходьбы и бега дома с тренировочным приложением и держателем для телефона]]></title-ru>
@@ -27,71 +27,71 @@
 
     <properties>
       <property>
-        <id><![CDATA[5969]]></id>
+        <id><![CDATA[Width]]></id>
         <values><value><![CDATA[62]]></value></values>
       </property>
       <property>
-        <id><![CDATA[72680]]></id>
+        <id><![CDATA[Width]]></id>
         <values><value><![CDATA[62]]></value></values>
       </property>
       <property>
-        <id><![CDATA[71565]]></id>
-        <values><value><![CDATA[Ne]]></value></values>
+        <id><![CDATA[Transport wheels]]></id>
+        <values><value><![CDATA[No]]></value></values>
       </property>
       <property>
-        <id><![CDATA[73055]]></id>
+        <id><![CDATA[Trainer weight]]></id>
         <values><value><![CDATA[22.3]]></value></values>
       </property>
       <property>
-        <id><![CDATA[116029]]></id>
-        <values><value><![CDATA[Bėgimo takelis]]></value></values>
+        <id><![CDATA[Type]]></id>
+        <values><value><![CDATA[Treadmill]]></value></values>
       </property>
       <property>
-        <id><![CDATA[2066]]></id>
-        <values><value><![CDATA[Taip]]></value></values>
+        <id><![CDATA[The possibility of folding]]></id>
+        <values><value><![CDATA[Yes]]></value></values>
       </property>
       <property>
-        <id><![CDATA[70160]]></id>
-        <values><value><![CDATA[Nenurodyta]]></value></values>
+        <id><![CDATA[The computer screen shows]]></id>
+        <values><value><![CDATA[Not specified]]></value></values>
       </property>
       <property>
-        <id><![CDATA[69420]]></id>
-        <values><value><![CDATA[Nenurodyta]]></value></values>
+        <id><![CDATA[Package size]]></id>
+        <values><value><![CDATA[Not specified]]></value></values>
       </property>
       <property>
-        <id><![CDATA[2071]]></id>
+        <id><![CDATA[Number of programs]]></id>
         <values><value><![CDATA[12]]></value></values>
       </property>
       <property>
-        <id><![CDATA[5966]]></id>
+        <id><![CDATA[Length]]></id>
         <values><value><![CDATA[129]]></value></values>
       </property>
       <property>
-        <id><![CDATA[47845]]></id>
+        <id><![CDATA[Length]]></id>
         <values><value><![CDATA[129]]></value></values>
       </property>
       <property>
-        <id><![CDATA[2052]]></id>
-        <values><value><![CDATA[Nėra]]></value></values>
+        <id><![CDATA[Hill angle]]></id>
+        <values><value><![CDATA[There is none]]></value></values>
       </property>
       <property>
-        <id><![CDATA[72415]]></id>
+        <id><![CDATA[Height]]></id>
         <values><value><![CDATA[115]]></value></values>
       </property>
       <property>
-        <id><![CDATA[116034]]></id>
-        <values><value><![CDATA[Sulankstomas]]></value></values>
+        <id><![CDATA[Features]]></id>
+        <values><value><![CDATA[Foldable]]></value></values>
       </property>
       <property>
-        <id><![CDATA[93362]]></id>
-        <values><value><![CDATA[Nenurodyta]]></value></values>
+        <id><![CDATA[Drive type]]></id>
+        <values><value><![CDATA[Not specified]]></value></values>
       </property>
       <property>
-        <id><![CDATA[66365]]></id>
-        <values><value><![CDATA[Nenurodyta]]></value></values>
+        <id><![CDATA[Brand name]]></id>
+        <values><value><![CDATA[Not specified]]></value></values>
       </property>
       <property>
-        <id><![CDATA[47935]]></id>
+        <id><![CDATA[Maximum user weight]]></id>
         <values><value><![CDATA[120]]></value></values>
       </property>
     </properties>
@@ -99,21 +99,13 @@
     <colours>
       <colour>
         <images>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/ed84e55f309efdf3cc86f4c0f0b7a794.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=bfd758918a9871a2820407784c4010ad]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/5a76bfeae1ab0a83334a3b66e1dcc912.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=bc4256b31342afd1efac34524d80bc83]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/03101690ca4a5c5b648dac2707163e20.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=db7d107f43d38afff1047304a448eb9b]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/1f53cd7f36486d6aac7055332fb007b6.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=aa3b8600980db66b702bc2cae15c946e]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/e90d305781496dfa6915e107e6fefb24.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=93b0f7d32418afbe14c78a3ec6892847]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/deaa213f35f23bdd4fe90d9525dc2e44.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=ba7fbd3f996a89df00e0e790466894d4]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/292c292dc0a31fc8adc5c8ce5720c7f6.jpg?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=b3d807266c995351ca56c9c7da1affd0]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/818f1a2d3e18ef224f3177e85ffe7649.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=e0dbb931e4f93372bccad56b946ab731]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/acf96c560bdde287e32fc8f9d267bb77.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=6b80338ad3fd263439437e7d04c9f918]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/0af299c4c98bd6236868ef004bdc9567.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=e2c782f256b5d630493b27d2682a8bad]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/02a0c33581d185b27a8b0d5fd38cb09e.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=50609bd93670fadc8eb4402e6106617b]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/4ca3cc9868225ec829fbf3c2402c1425.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=841b7f90fe89c056ac21817e15da1c8b]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/809974cb65162b06b0183b9a6cdbad39.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=958a51349864d0e63d36069104f06d46]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/b0649a9f8aeba42819aa9e2ec40f96c9.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=98248be20807f27d8d99079557f2a426]]></url></image>
-          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/983bd04afd973aed01686a3805426f25.png?x-cc=10&x-cu=127817&x-ct=1792134000&x-cs=0e0fe5601ce2857575ca1939cc7d1761]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/ed84e55f309efdf3cc86f4c0f0b7a794.jpg]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/5a76bfeae1ab0a83334a3b66e1dcc912.jpg]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/03101690ca4a5c5b648dac2707163e20.jpg]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/1f53cd7f36486d6aac7055332fb007b6.jpg]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/e90d305781496dfa6915e107e6fefb24.jpg]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/deaa213f35f23bdd4fe90d9525dc2e44.jpg]]></url></image>
+          <image><url><![CDATA[https://b2bfiles1.gigab2b.cn/image/wkseller/5534/292c292dc0a31fc8adc5c8ce5720c7f6.jpg]]></url></image>
         </images>
         <modifications>
           <modification>
